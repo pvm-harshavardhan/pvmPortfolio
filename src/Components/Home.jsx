@@ -13,7 +13,7 @@ const Home = () => {
         >
             <div className="max-w-screen-lg w-full px-0 mx-0 flex flex-col sm:flex-row items-center justify-between space-y-10 md:space-y-0 md:space-x-10">
                 <div className="w-full md:w-2/3 text-center sm:pl-4 sm:text-left">
-                    <h2 className="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl font-bold text-white mb-6 leading-tight text-center md:text-left">
+                    <h2 className="text-3xl sm:text-4xl lg:text-5xl 2xl:text-6xl font-bold text-white mb-6 leading-tight text-center md:text-left">
                         Hi there!<span className="select-none inline-block">&#128075;</span><br />
                         <span className="text-sky-700 block pt-2 mx-0">I'm a Web Developer</span>
 
