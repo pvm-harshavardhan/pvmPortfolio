@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pvmPortfolio/static/css/main.0b98e809.css",
-    "main.js": "/pvmPortfolio/static/js/main.ace7be8a.js",
+    "main.css": "/pvmPortfolio/static/css/main.ca395e8c.css",
+    "main.js": "/pvmPortfolio/static/js/main.2fda40d3.js",
     "static/media/heroImage.png": "/pvmPortfolio/static/media/heroImage.a13be93fcba1049042dd.png",
     "static/media/Portfolio Image.png": "/pvmPortfolio/static/media/Portfolio Image.1cb2c5102115a00540b3.png",
     "static/media/Temp Converter.png": "/pvmPortfolio/static/media/Temp Converter.09577a0c06b5908c920f.png",
@@ -20,11 +20,11 @@
     "static/media/css.png": "/pvmPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/pvmPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/pvmPortfolio/index.html",
-    "main.0b98e809.css.map": "/pvmPortfolio/static/css/main.0b98e809.css.map",
-    "main.ace7be8a.js.map": "/pvmPortfolio/static/js/main.ace7be8a.js.map"
+    "main.ca395e8c.css.map": "/pvmPortfolio/static/css/main.ca395e8c.css.map",
+    "main.2fda40d3.js.map": "/pvmPortfolio/static/js/main.2fda40d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b98e809.css",
-    "static/js/main.ace7be8a.js"
+    "static/css/main.ca395e8c.css",
+    "static/js/main.2fda40d3.js"
   ]
 }
