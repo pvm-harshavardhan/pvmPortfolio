@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/pvmPortfolio/static/css/main.ca395e8c.css",
-    "main.js": "/pvmPortfolio/static/js/main.2fda40d3.js",
+    "main.js": "/pvmPortfolio/static/js/main.ef3850fb.js",
     "static/media/heroImage.png": "/pvmPortfolio/static/media/heroImage.a13be93fcba1049042dd.png",
     "static/media/Portfolio Image.png": "/pvmPortfolio/static/media/Portfolio Image.1cb2c5102115a00540b3.png",
     "static/media/Temp Converter.png": "/pvmPortfolio/static/media/Temp Converter.09577a0c06b5908c920f.png",
     "static/media/student management system.png": "/pvmPortfolio/static/media/student management system.d1884c90e1e39997cf35.png",
     "static/media/drum kit.jpg": "/pvmPortfolio/static/media/drum kit.10c6fd8846516235390d.jpg",
     "static/media/java.png": "/pvmPortfolio/static/media/java.68020ad31fe8d86080a4.png",
+    "static/media/Resume_PVMHarsha.pdf": "/pvmPortfolio/static/media/Resume_PVMHarsha.430e91d745a69e5b0eff.pdf",
     "static/media/dice game.jpg": "/pvmPortfolio/static/media/dice game.f5e76d5e15b424d314c2.jpg",
     "static/media/Calculator.jpg": "/pvmPortfolio/static/media/Calculator.f4b24dad94837301c675.jpg",
     "static/media/mysql.png": "/pvmPortfolio/static/media/mysql.23b031fab111b690b6fc.png",
@@ -21,10 +22,10 @@
     "static/media/javascript.png": "/pvmPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/pvmPortfolio/index.html",
     "main.ca395e8c.css.map": "/pvmPortfolio/static/css/main.ca395e8c.css.map",
-    "main.2fda40d3.js.map": "/pvmPortfolio/static/js/main.2fda40d3.js.map"
+    "main.ef3850fb.js.map": "/pvmPortfolio/static/js/main.ef3850fb.js.map"
   },
   "entrypoints": [
     "static/css/main.ca395e8c.css",
-    "static/js/main.2fda40d3.js"
+    "static/js/main.ef3850fb.js"
   ]
 }
