@@ -79,9 +79,9 @@ const Skills = () => {
             name="Skills"
             className="w-full min-h-screen flex items-center justify-center 
             bg-gradient-to-b from-cyan-950 via-stone-900 to-stone-950 
-            pt-20 pb-20"
+            pt-10 pb-5"
         >
-            <div className="max-w-screen-lg w-full mx-auto p-4 flex flex-col justify-center text-white">
+            <div className="max-w-screen-lg w-full mx-auto p-4 pt-0 flex flex-col justify-center text-white">
                 <div className="pb-8">
                     <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
                         Skills

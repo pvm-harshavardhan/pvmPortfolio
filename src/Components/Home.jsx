@@ -11,11 +11,11 @@ const Home = () => {
             name="Home"
             className="pt-20 w-full min-h-screen bg-gradient-to-b from-stone-950 via-stone-950 to-cyan-950 flex items-center justify-center pb-5"
         >
-            <div className="max-w-screen-lg w-full mx-auto px-4 md:px-8 lg:px-16 flex flex-col sm:flex-row items-center justify-between space-y-10 md:space-y-0 md:space-x-10">
+            <div className="max-w-screen-lg w-full px-0 mx-0 flex flex-col sm:flex-row items-center justify-between space-y-10 md:space-y-0 md:space-x-10">
                 <div className="w-full md:w-2/3 text-center sm:pl-4 sm:text-left">
-                    <h2 className="text-3xl sm:text-4xl lg:text-5xl 2xl:text-6xl font-bold text-white mb-6 leading-tight text-center md:text-left">
-                        Hi there! <span className="wave inline-block">&#128075;</span><br />
-                        <span className="text-sky-700 block pt-2">I'm a Web Developer</span>
+                    <h2 className="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl font-bold text-white mb-6 leading-tight text-center md:text-left">
+                        Hi there!<span className="select-none inline-block">&#128075;</span><br />
+                        <span className="text-sky-700 block pt-2 mx-0">I'm a Web Developer</span>
 
                     </h2>
                     <p className="text-base sm:text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto md:mx-0 text-center md:text-left">
@@ -70,7 +70,7 @@ const Home = () => {
                     <img
                         src={HeroImage}
                         alt="my profile"
-                        className="rounded-full w-1/2 md:w-full max-w-xs object-cover shadow-lg"
+                        className="select-none rounded-full w-1/2 md:w-full max-w-xs object-cover shadow-lg"
                     />
                 </div>
             </div>

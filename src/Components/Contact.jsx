@@ -5,7 +5,7 @@ const Contact = () => {
     return (
         <div
             name="Contact"
-            className="min-h-screen w-full flex flex-col items-center justify-between bg-gradient-to-b from-stone-950 via-stone-900 to-cyan-950 p-4 text-white"
+            className="min-h-screen w-full flex flex-col items-center justify-between bg-gradient-to-b from-stone-950 via-stone-900 to-cyan-950 p-4 pt-0 text-white"
         >
             <div className="w-full max-w-screen-lg mx-auto grid grid-cols-1 sm:grid-cols-2 gap-8 px-4 flex-grow flex items-center">
 
@@ -51,7 +51,7 @@ const Contact = () => {
                 </div>
             </div>
 
-            <div className="w-full bg-stone-900 flex justify-center items-center mt-5 sm:mt-0 py-5 border-t-4 border-gray-600">
+            <div className="select-none w-full bg-stone-900 flex justify-center items-center mt-5 sm:mt-0 py-5 border-t-4 border-gray-600">
                 <p className="text-sm sm:text-base text-gray-400">
                     &copy; 2024 P VM Harsha Vardhan. All rights reserved.
                 </p>
