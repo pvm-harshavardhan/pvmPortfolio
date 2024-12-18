@@ -47,7 +47,7 @@ const Home = () => {
                         </button>
 
                         <a
-                            href="/resumeCurrUpdated.pdf"
+                            href="public/resumeCurrUpdated.pdf"
                             download="resumeCurrUpdated.pdf"
                             className="inline-block"
                         >
