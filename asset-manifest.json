@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pvmPortfolio/static/css/main.0b98e809.css",
+    "main.js": "/pvmPortfolio/static/js/main.ace7be8a.js",
+    "static/media/heroImage.png": "/pvmPortfolio/static/media/heroImage.a13be93fcba1049042dd.png",
+    "static/media/Portfolio Image.png": "/pvmPortfolio/static/media/Portfolio Image.1cb2c5102115a00540b3.png",
+    "static/media/Temp Converter.png": "/pvmPortfolio/static/media/Temp Converter.09577a0c06b5908c920f.png",
+    "static/media/student management system.png": "/pvmPortfolio/static/media/student management system.d1884c90e1e39997cf35.png",
+    "static/media/drum kit.jpg": "/pvmPortfolio/static/media/drum kit.10c6fd8846516235390d.jpg",
+    "static/media/java.png": "/pvmPortfolio/static/media/java.68020ad31fe8d86080a4.png",
+    "static/media/dice game.jpg": "/pvmPortfolio/static/media/dice game.f5e76d5e15b424d314c2.jpg",
+    "static/media/Calculator.jpg": "/pvmPortfolio/static/media/Calculator.f4b24dad94837301c675.jpg",
+    "static/media/mysql.png": "/pvmPortfolio/static/media/mysql.23b031fab111b690b6fc.png",
+    "static/media/c.png": "/pvmPortfolio/static/media/c.8fbc945b1c7004e1034d.png",
+    "static/media/python.png": "/pvmPortfolio/static/media/python.7c9804822fd145b1aff9.png",
+    "static/media/react.png": "/pvmPortfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/pvmPortfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/pvmPortfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/pvmPortfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/pvmPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/pvmPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/pvmPortfolio/index.html",
+    "main.0b98e809.css.map": "/pvmPortfolio/static/css/main.0b98e809.css.map",
+    "main.ace7be8a.js.map": "/pvmPortfolio/static/js/main.ace7be8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b98e809.css",
+    "static/js/main.ace7be8a.js"
+  ]
+}
