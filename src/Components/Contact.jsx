@@ -7,7 +7,7 @@ const Contact = () => {
             name="Contact"
             className="min-h-screen w-full flex flex-col items-center justify-between bg-gradient-to-b from-stone-950 via-stone-900 to-cyan-950 p-4 pt-0 text-white"
         >
-            <div className="w-full max-w-screen-lg mx-auto grid grid-cols-1 sm:grid-cols-2 gap-8 px-4 flex-grow flex items-center">
+            <div className="w-full max-w-screen-lg mx-auto grid grid-cols-1 sm:grid-cols-2 gap-8 px-4 flex-grow items-center">
 
                 <div className="flex flex-col justify-center">
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500 self-start">
@@ -53,7 +53,7 @@ const Contact = () => {
 
             <div className="select-none w-full bg-stone-900 flex justify-center items-center mt-5 sm:mt-0 py-5 border-t-4 border-gray-600">
                 <p className="text-sm sm:text-base text-gray-400">
-                    &copy; 2024 P VM Harsha Vardhan. All rights reserved.
+                    &copy; 2025 P VM Harsha Vardhan. All rights reserved.
                 </p>
             </div>
         </div>

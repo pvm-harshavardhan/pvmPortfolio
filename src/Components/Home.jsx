@@ -4,6 +4,7 @@ import { RiArrowRightDoubleFill } from "react-icons/ri";
 import { HiDocumentText } from "react-icons/hi";
 import SocialLinks from "./SocialLinks";
 import { Link } from 'react-scroll';
+import ResumePDF from '../assets/Resume_PVMHarsha.pdf';
 
 const Home = () => {
     return (
@@ -47,8 +48,8 @@ const Home = () => {
                         </button>
 
                         <a
-                            href="/resumeCurrUpdated.pdf"
-                            download="resumeCurrUpdated.pdf"
+                            href={ResumePDF}
+                            download="Resume_PVMHarsha.pdf"
                             className="inline-block"
                         >
                             <button

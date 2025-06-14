@@ -23,27 +23,54 @@ const About = () => {
                     </p>
                 </div>
 
-                <div className=" bg-cyan-800/40 rounded-xl shadow-lg p-4 sm:p-6 transform transition-all duration-300 hover:scale-105 hover:shadow-xl w-full max-w-[600px] mx-auto">
-                    <div className="pb-4">
-                        <p className="text-xl font-bold inline border-b-4 text-sky-100 border-gray-500">
-                            Education Qualification
-                        </p>
+                
+
+                <div className="flex flex-col md:flex-row md:justify-center md:gap-6">
+                    <div className="bg-cyan-800/40 rounded-xl shadow-lg p-4 sm:p-6 transform transition-all duration-300 hover:scale-105 hover:shadow-xl w-full max-w-[600px] mx-auto my-5 md:my-0">
+                        <div className="pb-4">
+                            <p className="text-xl font-bold inline border-b-4 text-sky-100 border-gray-500">
+                                Research Intern
+                            </p>
+                        </div>
+                        <div className="grid grid-cols-1 sm:grid-cols-[3fr_1fr] sm:grid-rows-2 gap-1 sm:gap-2 text-stone-400">
+                            <div className="flex items-center font-semibold text-sm sm:text-base">
+                                <span>Image Processing and Deep Learning</span>
+                            </div>
+                            <div className="flex items-center justify-start sm:justify-end text-sm sm:text-base">
+                                
+                            </div>
+                            <div className="text-xs sm:text-sm flex items-center">
+                                <span>National Institute of Technology, Warangal</span>
+                            </div>
+                            <div className="flex items-center justify-start sm:justify-end text-xs sm:text-sm ml-0">
+                                <span>Dec 2024–Mar 2025</span>
+                            </div>
+                        </div>
                     </div>
-                    <div className="grid grid-cols-1 sm:grid-cols-[3fr_1fr] sm:grid-rows-2 gap-1 sm:gap-2 text-stone-400">
-                        <div className="flex items-center font-semibold text-sm sm:text-base">
-                            <span>Bachelors in Computer Science</span>
+                    <div className="bg-cyan-800/40 rounded-xl shadow-lg p-4 sm:p-6 transform transition-all duration-300 hover:scale-105 hover:shadow-xl w-full max-w-[600px] mx-auto my-5 md:my-0">
+                        <div className="pb-4">
+                            <p className="text-xl font-bold inline border-b-4 text-sky-100 border-gray-500">
+                                Education Qualification
+                            </p>
                         </div>
-                        <div className="flex items-center justify-start sm:justify-end text-sm sm:text-base">
-                            <span>CGPA: 8.44</span>
-                        </div>
-                        <div className="text-xs sm:text-sm flex items-center">
-                            <span>Jawaharlal Nehru Technological University</span>
-                        </div>
-                        <div className="flex items-center justify-start sm:justify-end text-xs sm:text-sm">
-                            <span>2021-2025</span>
+                        <div className="grid grid-cols-1 sm:grid-cols-[3fr_1fr] sm:grid-rows-2 gap-1 sm:gap-2 text-stone-400">
+                            <div className="flex items-center font-semibold text-sm sm:text-base">
+                                <span>Bachelors in Computer Science</span>
+                            </div>
+                            <div className="flex items-center justify-start sm:justify-end text-sm sm:text-base">
+                                <span className="font-bold italic">CGPA: 8.68</span>
+                            </div>
+                            <div className="text-xs sm:text-sm flex items-center">
+                                <span>Jawaharlal Nehru Technological University</span>
+                            </div>
+                            <div className="flex items-center justify-start sm:justify-end text-xs sm:text-sm">
+                                <span>2021–2025</span>
+                            </div>
                         </div>
                     </div>
                 </div>
+
+
 
             </div>
         </div>
