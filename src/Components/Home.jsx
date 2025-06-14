@@ -4,7 +4,6 @@ import { RiArrowRightDoubleFill } from "react-icons/ri";
 import { HiDocumentText } from "react-icons/hi";
 import SocialLinks from "./SocialLinks";
 import { Link } from 'react-scroll';
-import ResumePDF from '../assets/Resume_PVMHarsha.pdf';
 
 const Home = () => {
     return (
@@ -46,24 +45,6 @@ const Home = () => {
                                 <RiArrowRightDoubleFill className="text-base sm:text-xl" />
                             </span>
                         </button>
-
-                        <a
-                            href={ResumePDF}
-                            download="Resume_PVMHarsha.pdf"
-                            className="inline-block"
-                        >
-                            <button
-                                type="button"
-                                className="text-white px-4 sm:px-6 py-2 sm:py-3 flex items-center rounded-md 
-                                bg-gradient-to-r from-cyan-950 to-sky-700 
-                                hover:scale-105 transition-all duration-500"
-                            >
-                                Resume
-                                <span className="ml-2">
-                                    <HiDocumentText className="text-base sm:text-xl" />
-                                </span>
-                            </button>
-                        </a>
                     </div>
                 </div>
 
