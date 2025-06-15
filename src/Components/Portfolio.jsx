@@ -4,34 +4,34 @@ import StudentManagementSystem from '../assets/portfolio/student management syst
 import DiceGame from '../assets/portfolio/dice game.jpg'
 import DrumKit from '../assets/portfolio/drum kit.jpg'
 import Calculator from '../assets/portfolio/Calculator.jpg'
-import TempConverter from '../assets/portfolio/Temp Converter.png'
+import ecommerce from '../assets/portfolio/frontend ecommerce.png'
 import { FaGithub } from "react-icons/fa6";
 
 const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
+            src: ecommerce,
+            name: "E-commerce Website",
+            link: "https://github.com/pvm-harshavardhan/frontend_ecommerce"
+        }, 
+        {
+            id: 2,
             src: PortfolioImage,
             name: "Portfolio Website",
             link: "https://github.com/pvm-harshavardhan/pvmPortfolio"
         },
         {
-            id: 2,
+            id: 3,
             src: StudentManagementSystem,
             name: "Student Management System",
             link: "https://github.com/pvm-harshavardhan/school_management_system_CLI"
         },
         {
-            id: 3,
+            id: 4,
             src: Calculator,
             name: "Web Calculator",
             link: "https://github.com/pvm-harshavardhan/calculator"
-        },
-        {
-            id: 4,
-            src: TempConverter,
-            name: "Temperature Converter",
-            link: "https://github.com/pvm-harshavardhan/temperatureConverter"
         },
         {
             id: 5,

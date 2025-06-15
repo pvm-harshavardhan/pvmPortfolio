@@ -1,7 +1,6 @@
 import React from "react";
 import HeroImage from "../assets/heroImage.png";
 import { RiArrowRightDoubleFill } from "react-icons/ri";
-import { HiDocumentText } from "react-icons/hi";
 import SocialLinks from "./SocialLinks";
 import { Link } from 'react-scroll';
 

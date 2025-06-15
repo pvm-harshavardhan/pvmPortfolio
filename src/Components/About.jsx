@@ -11,15 +11,16 @@ const About = () => {
                 </div>
                 <div className="  text-gray-300 sm:text-lg md:text-xl  mt-5 md:mt-8">
                     <p className="mb-6">
-                        I am a passionate Computer Science student with a keen interest in web development
-                        and software engineering. Currently pursuing my B.Tech in CSE at JNTU Anantapur,
-                        I've maintained a strong academic record while actively developing my technical skills.
+                        I’m an undergraduate in Computer Science with a strong interest in web development, software engineering, 
+                        and AI/ML. I like building interactive, user-focused applications and finding out how smart systems can solve 
+                        real-world problems. Through my personal and class projects, I've built a solid foundation in both frontend and 
+                        backend development, along with practical experience in deep learning.                        
                     </p>
 
                     <p className="mb-10">
-                        Beyond academics, I enjoy working on personal projects that challenge my abilities
-                        and contribute to my growth as a developer. I'm always eager to collaborate on
-                        innovative projects and learn from fellow developers in the community.
+                        I’m a motivated learner who enjoys challenges. I’m always eager to explore new technologies, contribute to 
+                        meaningful projects, and grow through teamwork. Outside of my studies, I regularly work on personal projects 
+                        that enhance my skills and show my passion for continuous improvement.
                     </p>
                 </div>
 
