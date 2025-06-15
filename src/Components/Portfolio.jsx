@@ -96,7 +96,7 @@ const Portfolio = () => {
                         </div>
                     ))}
                 </div>
-                <p className="mt-10 text-right text-lg font-bold text-stone-400">To know more about my Work <a className="text-2xl text-blue-200 p-2 hover:text-blue-700" href="https://github.com/pvm-harshavardhan" target="_blank" rel="noopener noreferrer">Click Me</a></p>
+                <p className="mt-10 text-right text-lg font-bold text-stone-400">To know more about my work...<a className="text-2xl text-blue-200 pt-2 pb-2 hover:text-blue-700" href="https://github.com/pvm-harshavardhan" target="_blank" rel="noopener noreferrer">Click Me</a></p>
             </div>
         </div>
     );
