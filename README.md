@@ -36,7 +36,7 @@ A personal portfolio website to showcase your skills, projects, and contact info
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/pvm-harshavardhan/pvmportfolio.git
    cd portfolio
    ```
 
