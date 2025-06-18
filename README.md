@@ -4,7 +4,7 @@ A personal portfolio website to showcase your skills, projects, and contact info
 
 ![Project Screenshot](project_screenshot.png)
 
-[![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -65,6 +65,11 @@ Deploy your portfolio easily using platforms like **Vercel**, **Netlify**, or **
 
 ## 📄 License
 
-This project is licensed under the [CC0 1.0 Universal (Public Domain Dedication)](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+Your Name - [@pvm_harsha](https://twitter.com/pvm_harsha)  
+Project Link: [My Portfolio](https://github.com/pvm-harshavardhan/pvmportfolio)
 
 ---
